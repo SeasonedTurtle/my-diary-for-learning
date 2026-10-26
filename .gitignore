@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+*.local
+
+# Source PDFs stay on your computer. This diary is public.
+sources/*
+!sources/README.md

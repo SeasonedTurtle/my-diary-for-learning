@@ -1,0 +1,4 @@
+%% Edit these three lines. They are the cover of your diary.
+Title: My Learning Diary
+Owner: Your Name
+Cover: A book of what I study
